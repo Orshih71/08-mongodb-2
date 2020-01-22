@@ -1,0 +1,10 @@
+POST http://localhost:8080/locations
+Content-Type: application/json
+
+{
+  "name": "Maharishi School" ,
+  "category": "school",
+  "location": [-91.9691873, 41.0138358]
+}
+
+###
